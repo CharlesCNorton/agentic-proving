@@ -148,8 +148,8 @@ Constraints:
 | Section | Status |
 |---------|--------|
 | 1. Foundations | Complete |
-| 2. Building Blocks | In progress |
-| 3. The Eight Feet | Pending |
+| 2. Building Blocks | Complete |
+| 3. The Eight Feet | Complete |
 | 4. The Sixteen Meters | Pending |
 | 5. The Five Circles | Pending |
 | 6. Variation Rules | Pending |
