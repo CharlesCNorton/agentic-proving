@@ -135,7 +135,7 @@ Constraints:
 - One section at a time
 - Single file monolith
 - Clean compile before advancing
-- Witness and counterexample for each proof
+- Witness, example, and counterexample for each proof
 - No admits, no axioms
 
 **Workflow mode:** Modern (Agentic, High velocity)
