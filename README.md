@@ -139,6 +139,8 @@ Constraints:
 - Witness, example, and counterexample for each proof
 - No admits, no axioms
 
+**Counterexample standard:** A counterexample must test a failure mode or edge case that could plausibly arise from a bug in the definition. Trivial negations (e.g., `X ≠ Y` where X and Y are obviously different) do not qualify.
+
 **Workflow mode:** Modern (Agentic, High velocity)
 
 ### Progress
