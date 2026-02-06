@@ -150,7 +150,7 @@ Constraints:
 | 1. Foundations | Complete |
 | 2. Building Blocks | Complete |
 | 3. The Eight Feet | Complete |
-| 4. The Sixteen Meters | Pending |
-| 5. The Five Circles | Pending |
-| 6. Variation Rules | Pending |
-| 7. Scansion | Pending |
+| 4. The Sixteen Meters | Complete |
+| 5. The Five Circles | Complete |
+| 6. Variation Rules | Complete |
+| 7. Scansion | Complete |
