@@ -57,7 +57,8 @@ flowchart TD
 
     AC --> U
 
-    Z --> AD{More sections?}
+    Z --> ZA[Self-Assessment]
+    ZA --> AD{More sections?}
     AD -->|YES| M
     AD -->|NO| AE[Done]
 ```
@@ -139,3 +140,23 @@ Constraints:
 - No admits, no axioms
 
 **Workflow mode:** Modern (Agentic, High velocity)
+
+### Progress
+
+**Section 1: Foundations** — Complete
+
+Contents:
+- `weight` inductive type (Short, Long)
+- `pattern` as `list weight`
+- `weight_eq_dec` — decidable equality for weight
+- `weight_eqb` — boolean equality with correctness proof
+- `pattern_eq_dec` — decidable equality for patterns
+- `pattern_eqb` — boolean equality with correctness proof
+- `pattern_length` — length function
+- `all_weights` — enumeration with completeness and NoDup proofs
+
+**Self-Assessment:** C+
+
+Meets requirements mechanically. Counterexamples are trivial rather than stress tests. This is generic list infrastructure with no domain-specific content yet. Acceptable for foundations; real test is whether it supports Sections 2-5.
+
+**Current position:** Entering Section 2: Building Blocks
